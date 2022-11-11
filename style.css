@@ -1,0 +1,14 @@
+.menu_list{
+	display: inline-block;
+}
+.menu_button{
+	border-radius: 5px;
+	text-decoration: none;
+	padding: 5px;
+	list-style: none;
+	display: inline-block;
+	background-color: #DEE0E7;
+}
+.menu_button:hover{
+	background-color: #DEEEE7;
+}
